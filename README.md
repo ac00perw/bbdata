@@ -7,8 +7,8 @@ PHP web scraper
 https://github.com/FriendsOfPhp/Goutte
 
 ncaahoopR:
-https://github.com/lbenz730/ncaahoopR
-R script that scrapes data from ESPN
+- https://github.com/lbenz730/ncaahoopR
+- R script that scrapes data from ESPN
 
 Hoop-math:
-http://hoop-math.com/csv.php
+- http://hoop-math.com/csv.php
