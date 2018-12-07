@@ -12,3 +12,6 @@ ncaahoopR:
 
 Hoop-math:
 - http://hoop-math.com/csv.php
+
+Wait, what? This guy's done it with Python:
+- https://github.com/roclark/sportsreference
